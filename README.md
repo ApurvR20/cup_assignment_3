@@ -1,6 +1,6 @@
 # cup_assignment_3
 
-### This repository contains the submission for the thrid assignment for CUP. The project is to create an ecommerce API using NodeJS and Express
+### This repository contains the submission for the third assignment for CUP. The project is to create an ecommerce API using NodeJS and Express
 
 ## API routes
 
