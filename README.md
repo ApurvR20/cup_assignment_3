@@ -6,9 +6,9 @@
 
 | Endpoints     | Method        | Descirption  |
 | ------------- |:-------------:| ------------:|
-| /api/v1/product/create      | POST| To add a new product to DB        |
-| c/api/v1/product/all      | GET    |   To retrieve all the products        |
-| /api/v1/product/delete/:id | DELETE    |    Deletes the product using id        |
+|/api/v1/product/create | POST| To add a new product to DB        |
+|/api/v1/product/all| GET |   To retrieve all the products        |
+|/api/v1/product/delete/:id | DELETE    |    Deletes the product using id        |
 |/api/v1/product/edit/:id|PATCH|Edits the product info using id |
 
 Database used : MongoDB Atlas
