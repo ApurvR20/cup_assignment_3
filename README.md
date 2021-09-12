@@ -4,7 +4,7 @@
 
 ## API routes
 
-| Endpoints     | Method        | Descirption  |
+| Endpoints     | Method        | Description  |
 | ------------- |:-------------:| ------------:|
 |/api/v1/product/create | POST| To add a new product to DB        |
 |/api/v1/product/all| GET |   To retrieve all the products        |
